@@ -6,6 +6,8 @@ export default function Home() {
     <div>
       <h1>Next JS Pre-rendering</h1>
       <Link href="/users">Users</Link>
+
+      <Link href="/posts">Posts</Link>
     </div>
   );
 }
